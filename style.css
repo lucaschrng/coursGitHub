@@ -15,3 +15,8 @@ main {
 .title {
     color: #8d00eb;
 }
+
+.testSam {
+    display: flex;
+    flex-direction: row;
+}
