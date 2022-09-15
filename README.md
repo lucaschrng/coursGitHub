@@ -1,4 +1,4 @@
 # COURS GITHUB
 
 ## Installation 
-    Ouvre le fichier
+* Ouvre le [lien](https://lucaschrng.github.io/coursGitHub/)
